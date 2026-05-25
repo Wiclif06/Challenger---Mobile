@@ -40,3 +40,15 @@ Rode o projeto:
 ```bash
 npx expo start -c --tunnel
 ```
+
+# Vídeo
+
+```text
+https://drive.google.com/file/d/1S9DRDjft3klM1BYOAYWHQAt7gxa2iIcy/view?usp=sharing
+```
+
+# GIT
+
+```text
+https://github.com/Wiclif06/Challenger---Mobile.git
+```
